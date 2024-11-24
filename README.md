@@ -68,6 +68,7 @@ After compiling the files, run the game using the following command:
 java -cp "bin;biuoop-1.4.jar" ./src/Ass6Game
 ```
 Explanation:
+
 `java`: The Java runtime command to execute the program.
 
 `-cp "bin;biuoop-1.4.jar"`: Specifies the classpath for the compiled files (bin) and the required `biuoop-1.4.jar` library.

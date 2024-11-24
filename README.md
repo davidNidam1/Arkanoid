@@ -55,8 +55,11 @@ javac -d bin -cp "biuoop-1.4.jar" src\*.java src\**\*.java
 ```
 Explanation:
 `javac:` The Java compiler.
-`-d bin:` Specifies the output directory for compiled files (`bin`).
+
+`-d bin`: Specifies the output directory for compiled files (`bin`).
+
 `-cp "biuoop-1.4.jar"`: Adds the `biuoop-1.4.jar` library (required for GUI and input handling) to the classpath.
+
 `src\*.java src\**\*.java`: Includes all Java files in the `src` directory and subdirectories.
 
 ### 5. Run the Game
@@ -66,7 +69,9 @@ java -cp "bin;biuoop-1.4.jar" ./src/Ass6Game
 ```
 Explanation:
 `java`: The Java runtime command to execute the program.
+
 `-cp "bin;biuoop-1.4.jar"`: Specifies the classpath for the compiled files (bin) and the required `biuoop-1.4.jar` library.
+
 `./src/Ass6Game`: Points to the entry class containing the `main` method.
 
 ---
@@ -74,6 +79,6 @@ Explanation:
 ## Why These Commands Are Important
 1. `git clone`: Downloads the project files to your local machine from the repository.
 2. `cd Arkanoid`: Positions you in the correct working directory.
-3. `code` .: Opens the project for editing or inspection in Visual Studio Code.
+3. `code .`: Opens the project for editing or inspection in Visual Studio Code.
 4. `javac`: Compiles the source code into .class files, converting human-readable Java code into bytecode runnable by the JVM.
 5. `java`: Executes the compiled Java program, launching the Arkanoid game.

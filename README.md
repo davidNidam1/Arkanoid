@@ -30,7 +30,7 @@ Follow these steps to clone the repository, compile the source files, and run th
 Run the following command in your terminal to clone the repository:
 
 ```bash
-git clone -b master https://github.com/davidNidam1/Arkanoid.git
+git clone https://github.com/davidNidam1/Arkanoid.git
 ```
 
 This clones the repository from the master branch to your local machine.

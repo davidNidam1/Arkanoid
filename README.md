@@ -1,9 +1,9 @@
 # Arkanoid Game - OOP Project
 
-<img src="https://github.com/user-attachments/assets/c2ccbd82-b475-4430-9416-1b670e352cdf" width="400" style="margin-right: 20px; margin-bottom: 20px;">
-<img src="https://github.com/user-attachments/assets/1ebe1023-26db-4db5-8c76-3dafdd20c586" width="400" style="margin-right: 20px; margin-bottom: 20px;">
-<img src="https://github.com/user-attachments/assets/c1ec546d-2b69-47e3-a2e2-c67b35cb7218" width="400" style="margin-right: 20px; margin-bottom: 20px;">
-<img src="https://github.com/user-attachments/assets/e50e99e8-8fd4-4f57-9b90-ea2aa0303966" width="400" style="margin-bottom: 20px; margin-bottom: 20px;">
+<img src="https://github.com/user-attachments/assets/c2ccbd82-b475-4430-9416-1b670e352cdf" width="400" style="margin-right: 40px; margin-bottom: 20px;">
+<img src="https://github.com/user-attachments/assets/1ebe1023-26db-4db5-8c76-3dafdd20c586" width="400" style="margin-right: 40px; margin-bottom: 20px;">
+<img src="https://github.com/user-attachments/assets/c1ec546d-2b69-47e3-a2e2-c67b35cb7218" width="400" style="margin-right: 40px; margin-bottom: 20px;">
+<img src="https://github.com/user-attachments/assets/e50e99e8-8fd4-4f57-9b90-ea2aa0303966" width="400" style="margin-bottom: 40px; margin-bottom: 20px;">
 
 
 ## Overview
